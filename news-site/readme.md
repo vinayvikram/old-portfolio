@@ -1,1 +1,1 @@
-This page is designed using css flexbox bproperty.
+This page is designed using css flexbox property.
